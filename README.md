@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Green-87
-- 👀 I’m interested in projects involving HTML, CSS and JavaScript.
-- 🌱 I’m currently learning HTML and CSS.
+- 👀 I’m interested in projects involving HTML, CSS, JavaScript and Java.
+- 🌱 I’m currently learning HTML, CSS, JavaScript and Java.
 - 💞️ I’m looking to collaborate on review codes.
 - 📫 How to reach me on Discord Green#9901.
 
